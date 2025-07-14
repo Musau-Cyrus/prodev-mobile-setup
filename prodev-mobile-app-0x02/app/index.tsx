@@ -25,7 +25,7 @@ export default function Index(){
         <Text style={{ ...styles.textSmall, color: "black"}}>Join here</Text>
       </TouchableOpacity>
 
-      <TouchableOpacity style={ styles.transparentButton}>
+      <TouchableOpacity style={styles.transparentButton}>
         <Text style={ styles.textSmall}>Sign In</Text>
       </TouchableOpacity>
     </View>
