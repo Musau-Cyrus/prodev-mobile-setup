@@ -19,11 +19,11 @@ export default function Index() {
 
         <View style={styles.formGroup}>
           <View>
-            <Text style={styles.placeHolderText}>Email</Text>
+            <Text style={styles.placeholderText}>Email</Text>
             <TextInput keyboardType="email-address" style={styles.inputField} />
           </View>
           <View style={{ marginTop: 20 }}>
-            <Text style={styles.placeHolderText}>Password</Text>
+            <Text style={styles.placeholderText}>Password</Text>
             <View style={styles.passwordGroup}>
               <TextInput style={{ flex: 1 }} />
               <FontAwesome name="eye-slash" size={24} color="#7E7B7B" />

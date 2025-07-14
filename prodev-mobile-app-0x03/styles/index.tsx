@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
         fontSize: 12,
         color: '#7E7B7B'
     },
-    placeHolderText: {
+    placeholderText: {
         fontSize: 18,
         color: '#7E7B7B',
         marginBottom: 7
